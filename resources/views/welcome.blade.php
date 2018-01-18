@@ -86,7 +86,7 @@
                     <a target="_blank" href="https://www.meetup.com/Laravel-Omaha">Meetup</a>
                     <a target="_blank" href="https://www.youtube.com/channel/UC5y0QfbLdP0Ytvst4uMd-2w">YouTube</a>
                     <a target="_blank" href="https://twitter.com/laravelomaha">Twitter</a>
-                    <a target="_blank" href="https://github.com/laravel-omaha/laravel-omaha">GitHub</a>
+                    <a target="_blank" href="https://github.com/laravel-omaha">GitHub</a>
                 </div>
             </div>
         </div>
